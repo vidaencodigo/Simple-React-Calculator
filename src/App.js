@@ -22,7 +22,7 @@ function App() {
 
   const Calcular = () => {
     setfinCalc(true);
-    let resultado = null;
+    
     try {
       if (input) {
         setInput(evaluate(input))
