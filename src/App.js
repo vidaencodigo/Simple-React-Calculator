@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import FreeCodeCampLogo from './images/freecodecamp.png';
 import Boton from './components/boton.jsx';
